@@ -7,6 +7,7 @@
   <body>
       <article class="">
         <h1>Committen in git</h1>
+        Via remote
       </article>
   </body>
 </html>
