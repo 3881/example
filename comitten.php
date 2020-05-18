@@ -8,6 +8,7 @@
       <article class="">
         <h1>Committen in git</h1>
         Via remote
+        repo1 added text
       </article>
   </body>
 </html>
