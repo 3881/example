@@ -32,5 +32,9 @@
       <code>git commit -m "melding bij commit"</code>
       <p>Tussen de tekstquotes zet een tekst die aangeeft wat of waarom je hebt gecommit.</p>
     </article>
+    <article class="">
+        <h1>Mergen van branches</h1>
+        Bla bla bla
+    </article>
   </body>
 </html>
