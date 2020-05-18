@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Source+Code+Pro:wght@200&display=swap');
+
+* {
+  font-family: 'Oswald', sans-serif;
+}
+
+code {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: bold;
+  padding: 0px 20px;
+}
