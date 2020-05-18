@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="css/master.css">
   </head>
   <body>
+    <h1>Onderdelen van git</h1>
     <article class="">
       <h1>Git is voor het beheren van een repository</h1>
       <p>Met git kunt je op de commandline je repository maken en beheren. Bestanden
